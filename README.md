@@ -1,2 +1,5 @@
 # time-saving
-very first day of coding
+
+Hello there!
+My name's Cong,
+This is just very first day of coding to me.
